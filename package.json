@@ -1,0 +1,21 @@
+{
+  "name": "serverless-widget",
+  "version": "1.0.0",
+  "description": "AWS Lambda function. Takes input from querystring and pushes to S3 object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AWS",
+    "Lambda",
+    "S3",
+    "JavaScript"
+  ],
+  "author": "Rachael Colley rcolley@rcolley",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
